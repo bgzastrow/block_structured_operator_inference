@@ -1,0 +1,14 @@
+# python
+__pycache__/
+.venv/
+.ipynb_checkpoints
+
+# data
+*.csv
+*.h5
+*.dat
+*.plt
+*.szplt
+
+# results/figures
+figures/
